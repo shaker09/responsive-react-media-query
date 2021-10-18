@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name":"ENGINE DIAGONSTIC",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit, recusandae quis, ex vitae cupiditate deleniti assumenda odit dignissimos veniam nostrum dolorum aspernatur quia ratione modi ut odio fuga autem quibusdam.",
+        "img": "https://i.ibb.co/nBLpQ2n/1.jpg"
+    },
+    {
+        "id": 2,
+        "name":"WHEEL ALIGNMENT",
+        "price": "200",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit, recusandae quis, ex vitae cupiditate deleniti assumenda odit dignissimos veniam nostrum dolorum aspernatur quia ratione modi ut odio fuga autem quibusdam.",
+        "img": "https://i.ibb.co/p1HMhp0/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":"OIL CHANGING",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit, recusandae quis, ex vitae cupiditate deleniti assumenda odit dignissimos veniam nostrum dolorum aspernatur quia ratione modi ut odio fuga autem quibusdam.",
+        "img": "https://i.ibb.co/nm8xV9Z/3.jpg"
+    },
+    {
+        "id": 4,
+        "name":"BRAKE REPAIR",
+        "price": "150",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit, recusandae quis, ex vitae cupiditate deleniti assumenda odit dignissimos veniam nostrum dolorum aspernatur quia ratione modi ut odio fuga autem quibusdam.",
+        "img": "https://i.ibb.co/FYC3DsK/4.jpg"
+    },
+    {
+        "id": 5,
+        "name":"PAINT JOB",
+        "price": "150",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit, recusandae quis, ex vitae cupiditate deleniti assumenda odit dignissimos veniam nostrum dolorum aspernatur quia ratione modi ut odio fuga autem quibusdam.",
+        "img": "https://i.ibb.co/PC47y1c/5.jpg"
+    },
+    {
+        "id": 6,
+        "name":"ENGINE FULL CHANGE",
+        "price": "1000",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit, recusandae quis, ex vitae cupiditate deleniti assumenda odit dignissimos veniam nostrum dolorum aspernatur quia ratione modi ut odio fuga autem quibusdam.",
+        "img": "https://i.ibb.co/sKkmJ8w/6.jpg"
+    }
+]
